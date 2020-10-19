@@ -1,10 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": {
-		"name": "Johannes Nilsson",
-		"email": "johannes@nilsson.im",
-		"url": "https://nilsson.im"
-	},
+	"author": "Johannes Nilsson",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
